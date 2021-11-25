@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kallaichan
 - 👀 I’m interested in web dev and cyber security
-- 🌱 I’m currently learning Java Spring and ReactJS framework
+- 🌱 I’m currently learning Kotlin and ReactJS framework
 
 <!---
 kallaichan/kallaichan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
